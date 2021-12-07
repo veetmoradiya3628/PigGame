@@ -6,4 +6,5 @@ This is Game that I have build for fun while learning JavaScript from Udemy Cour
 ![](screenshots/1.jpg)
 
 To Play and have fun with the game by below link,<br>
-Link : https://veetmoradiya3628.github.io/PigGame/
+Link : <a target="_blank" href="https://veetmoradiya3628.github.io/PigGame/
+"> Play the Game</a>
